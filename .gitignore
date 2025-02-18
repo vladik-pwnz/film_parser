@@ -1,0 +1,8 @@
+.venv/
+venv/
+*.swp
+*.egg-info/
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
